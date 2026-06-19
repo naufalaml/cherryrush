@@ -15,7 +15,6 @@ public class FinishFlag : MonoBehaviour
 
     private void Start()
     {
-        // Pastikan panel UI mati di awal permainan
         if (finishUIPanel != null)
         {
             finishUIPanel.SetActive(false);
