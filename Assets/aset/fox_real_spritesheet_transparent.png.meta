@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: 393f2f1b13489b34b8ae80cbd8f9f3fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4864783596851056441
+    second: fox_real_spritesheet_transparent_0
+  - first:
+      213: 1807513209224411082
+    second: fox_real_spritesheet_transparent_1
+  - first:
+      213: 8668001337777259779
+    second: fox_real_spritesheet_transparent_2
+  - first:
+      213: 1302726196879420030
+    second: fox_real_spritesheet_transparent_3
+  - first:
+      213: -1619971457340590553
+    second: fox_real_spritesheet_transparent_4
+  - first:
+      213: 1980783787282631348
+    second: fox_real_spritesheet_transparent_5
+  - first:
+      213: -5803680221136255088
+    second: fox_real_spritesheet_transparent_6
+  - first:
+      213: -8162290940592131187
+    second: fox_real_spritesheet_transparent_7
+  - first:
+      213: -4605255188025223125
+    second: fox_real_spritesheet_transparent_8
+  - first:
+      213: -2150445998634764066
+    second: fox_real_spritesheet_transparent_9
+  - first:
+      213: 3095345617831580062
+    second: fox_real_spritesheet_transparent_10
+  - first:
+      213: -6657445064866402533
+    second: fox_real_spritesheet_transparent_11
+  - first:
+      213: -3081365130326468866
+    second: fox_real_spritesheet_transparent_12
+  - first:
+      213: 1349029332615039681
+    second: fox_real_spritesheet_transparent_13
+  - first:
+      213: -2712457130371498588
+    second: fox_real_spritesheet_transparent_14
+  - first:
+      213: 3697721943747382857
+    second: fox_real_spritesheet_transparent_15
+  - first:
+      213: -5171255125297635809
+    second: fox_real_spritesheet_transparent_16
+  - first:
+      213: -6451848940770388382
+    second: fox_real_spritesheet_transparent_17
+  - first:
+      213: -7543799785796605765
+    second: fox_real_spritesheet_transparent_18
+  - first:
+      213: 8960883268101826302
+    second: fox_real_spritesheet_transparent_19
+  - first:
+      213: -1110085353239152727
+    second: fox_real_spritesheet_transparent_20
+  - first:
+      213: 1871101435624690115
+    second: fox_real_spritesheet_transparent_21
+  - first:
+      213: -2794959030866280646
+    second: fox_real_spritesheet_transparent_22
+  - first:
+      213: 7074642009472819455
+    second: fox_real_spritesheet_transparent_23
+  - first:
+      213: 7490098170105544580
+    second: fox_real_spritesheet_transparent_24
+  - first:
+      213: 1724452942519654770
+    second: fox_real_spritesheet_transparent_25
+  - first:
+      213: -7858630128515846162
+    second: fox_real_spritesheet_transparent_26
+  - first:
+      213: 3110148320576752175
+    second: fox_real_spritesheet_transparent_27
+  - first:
+      213: 4337257567279034471
+    second: fox_real_spritesheet_transparent_28
+  - first:
+      213: -5183990279650000104
+    second: fox_real_spritesheet_transparent_29
+  - first:
+      213: 4542004118302972309
+    second: fox_real_spritesheet_transparent_30
+  - first:
+      213: -1187783206618880619
+    second: fox_real_spritesheet_transparent_31
+  - first:
+      213: -2092185180539138121
+    second: fox_real_spritesheet_transparent_32
+  - first:
+      213: 74888099553511935
+    second: fox_real_spritesheet_transparent_33
+  - first:
+      213: -2943378033053623052
+    second: fox_real_spritesheet_transparent_34
+  - first:
+      213: -4976722401491419642
+    second: fox_real_spritesheet_transparent_35
+  - first:
+      213: 1970018204680218651
+    second: fox_real_spritesheet_transparent_36
+  - first:
+      213: 1878930967216237053
+    second: fox_real_spritesheet_transparent_37
+  - first:
+      213: -1670082397364323895
+    second: fox_real_spritesheet_transparent_38
+  - first:
+      213: 2439467177119982773
+    second: fox_real_spritesheet_transparent_39
+  - first:
+      213: 8286251142404809281
+    second: fox_real_spritesheet_transparent_40
+  - first:
+      213: -1515170516093117855
+    second: fox_real_spritesheet_transparent_41
+  - first:
+      213: 6051047204733479780
+    second: fox_real_spritesheet_transparent_42
+  - first:
+      213: -7291358735124807863
+    second: fox_real_spritesheet_transparent_43
+  - first:
+      213: 202771922098532244
+    second: fox_real_spritesheet_transparent_44
+  - first:
+      213: 3220656258923140142
+    second: fox_real_spritesheet_transparent_45
+  - first:
+      213: 7283382415687647258
+    second: fox_real_spritesheet_transparent_46
+  - first:
+      213: -7042550414657481949
+    second: fox_real_spritesheet_transparent_47
+  - first:
+      213: -5140322988154738083
+    second: fox_real_spritesheet_transparent_48
+  - first:
+      213: -2204535439484926400
+    second: fox_real_spritesheet_transparent_49
+  - first:
+      213: 5699672060097870285
+    second: fox_real_spritesheet_transparent_50
+  - first:
+      213: 4017494769673604683
+    second: fox_real_spritesheet_transparent_51
+  - first:
+      213: -9007890777568543671
+    second: fox_real_spritesheet_transparent_52
+  - first:
+      213: -6574396991549525729
+    second: fox_real_spritesheet_transparent_53
+  - first:
+      213: -1229558758302810606
+    second: fox_real_spritesheet_transparent_54
+  - first:
+      213: 801525168131111917
+    second: fox_real_spritesheet_transparent_55
+  - first:
+      213: 2426924465083315809
+    second: fox_real_spritesheet_transparent_56
+  - first:
+      213: 6261768506806028466
+    second: fox_real_spritesheet_transparent_57
+  - first:
+      213: 1135609094948778743
+    second: fox_real_spritesheet_transparent_58
+  - first:
+      213: -2838263819315806477
+    second: fox_idle_0
+  - first:
+      213: -3603591456620409434
+    second: fox_idle_1
+  - first:
+      213: -396270646125028841
+    second: fox_idle_2
+  - first:
+      213: 6671033078307956087
+    second: fox_walk_0
+  - first:
+      213: -1815768720336585311
+    second: fox_walk_1
+  - first:
+      213: 533844743297374663
+    second: fox_walk_2
+  - first:
+      213: -4337058123868923179
+    second: fox_walk_3
+  - first:
+      213: 3572729194923482978
+    second: fox_walk_4
+  - first:
+      213: -3899070720159901285
+    second: fox_walk_5
+  - first:
+      213: 8524565058863128530
+    second: fox_jump_0
+  - first:
+      213: -6610413202284801491
+    second: fox_jump_1
+  - first:
+      213: 125415772538660435
+    second: fox_jump_2
+  - first:
+      213: 4214019188825901759
+    second: fox_jump_3
+  - first:
+      213: 1319797144353436378
+    second: fox_djump_0
+  - first:
+      213: -184605056998137839
+    second: fox_djump_1
+  - first:
+      213: -8857742133448026284
+    second: fox_djump_2
+  - first:
+      213: -220511399954997201
+    second: fox_turn_0
+  - first:
+      213: -37012355719792124
+    second: fox_turn_1
+  - first:
+      213: -7575426738827780680
+    second: fox_turn_2
+  - first:
+      213: 1256701027247888423
+    second: fox_turn_3
+  - first:
+      213: 6501872937272777735
+    second: fox_turn_4
+  - first:
+      213: -2976449888780936474
+    second: fox_turn_5
+  - first:
+      213: 7979051585201387308
+    second: fox_turn_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fox_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe76d618167c98d0800000000000000
+      internalID: -2838263819315806477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_idle_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 816
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad0280b9a87dfdc0800000000000000
+      internalID: -3603591456620409434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_idle_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 816
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a9dc662f9208af0800000000000000
+      internalID: -396270646125028841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7752d657d35449c50800000000000000
+      internalID: 6671033078307956087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 612
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad721e18f71dc6e0800000000000000
+      internalID: -1815768720336585311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 612
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9137137f8986700800000000000000
+      internalID: 533844743297374663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 612
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da12947d9cafc3c0800000000000000
+      internalID: -4337058123868923179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 612
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fd41e0642e49130800000000000000
+      internalID: 3572729194923482978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_walk_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 612
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b991eb296d7b3e9c0800000000000000
+      internalID: -3899070720159901285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df5e3681c65d4670800000000000000
+      internalID: 8524565058863128530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_jump_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 408
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22134b47381344a0800000000000000
+      internalID: -6610413202284801491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_jump_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 408
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356e56b0bf09db100800000000000000
+      internalID: 125415772538660435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_jump_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 408
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbac5aa10243b7a30800000000000000
+      internalID: 4214019188825901759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_djump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2f2cc928cd05210800000000000000
+      internalID: 1319797144353436378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_djump_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 204
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a2e1cda6207df0800000000000000
+      internalID: -184605056998137839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_djump_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 204
+        width: 170
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457d1dfb57af21580800000000000000
+      internalID: -8857742133448026284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_turn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2022c0dc0690fcf0800000000000000
+      internalID: -220511399954997201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_turn_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a750565718c7ff0800000000000000
+      internalID: -37012355719792124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_turn_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd9c22748daed690800000000000000
+      internalID: -7575426738827780680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_turn_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7289afd0de2b07110800000000000000
+      internalID: 1256701027247888423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_turn_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c9ed0fcfa4b3a50800000000000000
+      internalID: 6501872937272777735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_turn_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea1677989681b6d0800000000000000
+      internalID: -2976449888780936474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fox_turn_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 146
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27327454294bbe60800000000000000
+      internalID: 7979051585201387308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fox_djump_0: 1319797144353436378
+      fox_djump_1: -184605056998137839
+      fox_djump_2: -8857742133448026284
+      fox_idle_0: -2838263819315806477
+      fox_idle_1: -3603591456620409434
+      fox_idle_2: -396270646125028841
+      fox_jump_0: 8524565058863128530
+      fox_jump_1: -6610413202284801491
+      fox_jump_2: 125415772538660435
+      fox_jump_3: 4214019188825901759
+      fox_real_spritesheet_transparent_0: -4864783596851056441
+      fox_real_spritesheet_transparent_1: 1807513209224411082
+      fox_real_spritesheet_transparent_10: 3095345617831580062
+      fox_real_spritesheet_transparent_11: -6657445064866402533
+      fox_real_spritesheet_transparent_12: -3081365130326468866
+      fox_real_spritesheet_transparent_13: 1349029332615039681
+      fox_real_spritesheet_transparent_14: -2712457130371498588
+      fox_real_spritesheet_transparent_15: 3697721943747382857
+      fox_real_spritesheet_transparent_16: -5171255125297635809
+      fox_real_spritesheet_transparent_17: -6451848940770388382
+      fox_real_spritesheet_transparent_18: -7543799785796605765
+      fox_real_spritesheet_transparent_19: 8960883268101826302
+      fox_real_spritesheet_transparent_2: 8668001337777259779
+      fox_real_spritesheet_transparent_20: -1110085353239152727
+      fox_real_spritesheet_transparent_21: 1871101435624690115
+      fox_real_spritesheet_transparent_22: -2794959030866280646
+      fox_real_spritesheet_transparent_23: 7074642009472819455
+      fox_real_spritesheet_transparent_24: 7490098170105544580
+      fox_real_spritesheet_transparent_25: 1724452942519654770
+      fox_real_spritesheet_transparent_26: -7858630128515846162
+      fox_real_spritesheet_transparent_27: 3110148320576752175
+      fox_real_spritesheet_transparent_28: 4337257567279034471
+      fox_real_spritesheet_transparent_29: -5183990279650000104
+      fox_real_spritesheet_transparent_3: 1302726196879420030
+      fox_real_spritesheet_transparent_30: 4542004118302972309
+      fox_real_spritesheet_transparent_31: -1187783206618880619
+      fox_real_spritesheet_transparent_32: -2092185180539138121
+      fox_real_spritesheet_transparent_33: 74888099553511935
+      fox_real_spritesheet_transparent_34: -2943378033053623052
+      fox_real_spritesheet_transparent_35: -4976722401491419642
+      fox_real_spritesheet_transparent_36: 1970018204680218651
+      fox_real_spritesheet_transparent_37: 1878930967216237053
+      fox_real_spritesheet_transparent_38: -1670082397364323895
+      fox_real_spritesheet_transparent_39: 2439467177119982773
+      fox_real_spritesheet_transparent_4: -1619971457340590553
+      fox_real_spritesheet_transparent_40: 8286251142404809281
+      fox_real_spritesheet_transparent_41: -1515170516093117855
+      fox_real_spritesheet_transparent_42: 6051047204733479780
+      fox_real_spritesheet_transparent_43: -7291358735124807863
+      fox_real_spritesheet_transparent_44: 202771922098532244
+      fox_real_spritesheet_transparent_45: 3220656258923140142
+      fox_real_spritesheet_transparent_46: 7283382415687647258
+      fox_real_spritesheet_transparent_47: -7042550414657481949
+      fox_real_spritesheet_transparent_48: -5140322988154738083
+      fox_real_spritesheet_transparent_49: -2204535439484926400
+      fox_real_spritesheet_transparent_5: 1980783787282631348
+      fox_real_spritesheet_transparent_50: 5699672060097870285
+      fox_real_spritesheet_transparent_51: 4017494769673604683
+      fox_real_spritesheet_transparent_52: -9007890777568543671
+      fox_real_spritesheet_transparent_53: -6574396991549525729
+      fox_real_spritesheet_transparent_54: -1229558758302810606
+      fox_real_spritesheet_transparent_55: 801525168131111917
+      fox_real_spritesheet_transparent_56: 2426924465083315809
+      fox_real_spritesheet_transparent_57: 6261768506806028466
+      fox_real_spritesheet_transparent_58: 1135609094948778743
+      fox_real_spritesheet_transparent_6: -5803680221136255088
+      fox_real_spritesheet_transparent_7: -8162290940592131187
+      fox_real_spritesheet_transparent_8: -4605255188025223125
+      fox_real_spritesheet_transparent_9: -2150445998634764066
+      fox_turn_0: -220511399954997201
+      fox_turn_1: -37012355719792124
+      fox_turn_2: -7575426738827780680
+      fox_turn_3: 1256701027247888423
+      fox_turn_4: 6501872937272777735
+      fox_turn_5: -2976449888780936474
+      fox_turn_6: 7979051585201387308
+      fox_walk_0: 6671033078307956087
+      fox_walk_1: -1815768720336585311
+      fox_walk_2: 533844743297374663
+      fox_walk_3: -4337058123868923179
+      fox_walk_4: 3572729194923482978
+      fox_walk_5: -3899070720159901285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
